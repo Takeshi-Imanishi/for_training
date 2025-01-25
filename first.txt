@@ -1,2 +1,4 @@
 start training of Git
 learning a basic workflow
+.git add
+.git commit
