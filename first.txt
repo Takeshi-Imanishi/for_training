@@ -4,3 +4,4 @@ learning a basic workflow
 .git commit
 .git rm
 .git status
+.git diff
